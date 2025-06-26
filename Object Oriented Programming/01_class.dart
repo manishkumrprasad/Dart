@@ -1,8 +1,11 @@
 void main(List<String> args) {
   
   Person p1 = Person("Kunal Sharma" ,21);
+  var p2 = Person("Rohan Yadav", 20);
+
 
   p1.getName();
+  p2.getName();
 
 }
 
