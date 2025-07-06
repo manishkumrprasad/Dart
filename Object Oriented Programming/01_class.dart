@@ -11,7 +11,7 @@ void main(List<String> args) {
 
 class Person{
 
-  String? Name = null;  
+  String? Name = null;  //String? means you can assign null values
   int? age = null;
 
   // Person(String N , int age){
